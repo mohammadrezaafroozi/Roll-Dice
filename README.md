@@ -1,5 +1,6 @@
 # Roll-Dice
 [online demo](https://mohammadrezaafroozi.github.io/Roll-Dice/)
+![Image](https://github.com/user-attachments/assets/a0b1b664-bfec-4e72-b11b-1687b1b01589)
 
 - Developed by MohammadReza Afroozi
 - Created - 2025
